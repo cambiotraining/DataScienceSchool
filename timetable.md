@@ -32,3 +32,5 @@
 | 9:30 - 12:00             | Model based experimental design, optimization - practical application with Emukit                                                                                | Javier Gonzalez Hernandez, Amazon Research                 |
 | 12:00 - 13:00            | Lunch                                                                                                                                                            |                                                            |
 | 13:00 – 14:00            | Future of AI in biomedical research                                                                                                                              | Neil Lawrence, Amazon Research and University of Sheffield |
+| 14:00 – 15:00            | Q & A                                                                                                                              | |
+
