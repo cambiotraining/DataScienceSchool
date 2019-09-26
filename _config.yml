@@ -6,9 +6,9 @@ remote_theme: fongandrew/hydeout
 
 
 # Setup
-title:            Autumn Data Science School
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+title:            'Autumn School in Data Science'
+tagline:          'Machine Learning applications for life sciences'
+description:      '23rd to 26th of September 2019'
 url:              https://cambiotraining.github.io
 baseurl:          '/DataScienceSchool/'
                   # the optional subpath of your site, e.g. "/blog"
