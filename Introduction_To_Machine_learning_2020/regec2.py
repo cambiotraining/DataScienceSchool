@@ -1,3 +1,9 @@
+"""
+From Guarracino, M.R., Cifarelli, C., Seref, O. and Pardalos, P.M., 2007. 
+A classification method based on generalized eigenvalue problems. Optimisation 
+Methods and Software, 22(1), pp.73-81.
+"""
+
 import numpy as np
 import scipy.linalg as sln
 import sklearn.metrics.pairwise as mt
